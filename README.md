@@ -8,6 +8,20 @@
 
 Professional Audio Cloud Recorder for iOS. Record high-quality .m4a audio and have it automatically uploaded to your selected Google Drive folder. Designed for professionals who need reliable, hands-free audio capture with seamless cloud backup — no manual file management required.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/01_onboarding_permissions.png" width="180" alt="Onboarding — Microphone Permission">&nbsp;&nbsp;
+  <img src="screenshots/02_google_sign_in.png" width="180" alt="Google Sign-In">&nbsp;&nbsp;
+  <img src="screenshots/05_recording_screen.png" width="180" alt="Recording Screen">&nbsp;&nbsp;
+  <img src="screenshots/03_settings.png" width="180" alt="Settings">&nbsp;&nbsp;
+  <img src="screenshots/04_drive_folder_picker.png" width="180" alt="Google Drive Folder Picker">
+</p>
+
+<p align="center">
+  <sub>From left to right: Onboarding &amp; Permissions · Google Sign-In · Recording · Settings · Drive Folder Picker</sub>
+</p>
+
 ## Features
 
 - **Audio Recording** — capture .m4a audio (AAC codec, 44.1 kHz sample rate) with simple Record/Stop controls
@@ -101,6 +115,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 # auto-voice-notes
 
 Profesjonalny rejestrator audio z synchronizacją chmurową dla systemu iOS. Nagrywaj audio w wysokiej jakości .m4a i automatycznie przesyłaj nagrania do wybranego folderu na Google Drive. Zaprojektowany dla profesjonalistów, którzy potrzebują niezawodnego nagrywania audio z bezproblemową kopią zapasową w chmurze — bez ręcznego zarządzania plikami.
+
+## Zrzuty ekranu
+
+<p align="center">
+  <img src="screenshots/01_onboarding_permissions.png" width="180" alt="Onboarding — Uprawnienia mikrofonu">&nbsp;&nbsp;
+  <img src="screenshots/02_google_sign_in.png" width="180" alt="Logowanie Google">&nbsp;&nbsp;
+  <img src="screenshots/05_recording_screen.png" width="180" alt="Ekran nagrywania">&nbsp;&nbsp;
+  <img src="screenshots/03_settings.png" width="180" alt="Ustawienia">&nbsp;&nbsp;
+  <img src="screenshots/04_drive_folder_picker.png" width="180" alt="Wybór folderu Google Drive">
+</p>
+
+<p align="center">
+  <sub>Od lewej: Onboarding i uprawnienia · Logowanie Google · Nagrywanie · Ustawienia · Wybór folderu Drive</sub>
+</p>
 
 ## Funkcje
 
